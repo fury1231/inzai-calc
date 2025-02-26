@@ -2,10 +2,10 @@
 - **HTML5 + CSS3** 
 - **JavaScript (ES6)** 
 - **Bootstrap 5** 
-- **[hkargc/paipan.js](https://github.com/hkargc/paipan) 📜**
+- **[hkargc/paipan.js](https://github.com/hkargc/paipan) **
 
 
-# 陰債計算系統 
+# 📜 陰債計算系統 
 
 📜 **輸入生辰八字，自動計算陰債總額，適合宗教相關網站使用並搭配提供運勢建議！**
 
