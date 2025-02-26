@@ -1,3 +1,5 @@
+[DEMO](https://fury1231.github.io/inzai-calc/)
+
 ## 🛠 技術棧
 - **HTML5 + CSS3** 
 - **JavaScript (ES6)** 
