@@ -1,7 +1,7 @@
 ## 🛠 技術棧
-- **HTML5 + CSS3** 🎨
-- **JavaScript (ES6)** ⚡
-- **Bootstrap 5** 🎛
+- **HTML5 + CSS3** 
+- **JavaScript (ES6)** 
+- **Bootstrap 5** 
 - **[hkargc/paipan.js](https://github.com/hkargc/paipan) 📜**
 
 
